@@ -19,6 +19,7 @@ models/*.keras
 
 # Uploads
 static/uploads/
+MLDemoProj/
 
 # OS files
 .DS_Store

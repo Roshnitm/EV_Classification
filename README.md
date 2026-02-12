@@ -80,7 +80,7 @@ The selected model was evaluated using:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/ev-vehicle-classification.git
+git clone https://github.com/Roshnitm/EV_Classification.git
 cd ev-vehicle-classification
 
 
