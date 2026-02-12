@@ -81,6 +81,7 @@ The selected model was evaluated using:
 1. Clone the repository:
 
 git clone https://github.com/Roshnitm/EV_Classification.git
+
 cd ev-vehicle-classification
 
 
@@ -101,6 +102,8 @@ python test.py
 5. Run app.py:
 
 python app.py
+
+
 ---
 
 ## 🎯 Key Highlights
