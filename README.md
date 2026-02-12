@@ -98,7 +98,9 @@ python train.py
 
 python test.py
 
+5. Run app.py:
 
+python app.py
 ---
 
 ## 🎯 Key Highlights
